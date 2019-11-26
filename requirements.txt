@@ -1,0 +1,7 @@
+flask
+plotly
+pandas
+numpy
+ipython
+gunicorn
+tablib
